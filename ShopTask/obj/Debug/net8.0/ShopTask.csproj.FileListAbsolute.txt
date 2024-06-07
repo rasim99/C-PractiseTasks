@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\bin\Debug\net8.0\ShopTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\bin\Debug\net8.0\ShopTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\bin\Debug\net8.0\ShopTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\bin\Debug\net8.0\ShopTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\bin\Debug\net8.0\ShopTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\obj\Debug\net8.0\ShopTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\obj\Debug\net8.0\ShopTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\obj\Debug\net8.0\ShopTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\obj\Debug\net8.0\ShopTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\obj\Debug\net8.0\ShopTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\obj\Debug\net8.0\refint\ShopTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\obj\Debug\net8.0\ShopTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\obj\Debug\net8.0\ShopTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\ShopTask\obj\Debug\net8.0\ref\ShopTask.dll

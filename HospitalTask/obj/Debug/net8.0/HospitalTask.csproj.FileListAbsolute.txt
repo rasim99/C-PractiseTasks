@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\bin\Debug\net8.0\HospitalTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\bin\Debug\net8.0\HospitalTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\bin\Debug\net8.0\HospitalTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\bin\Debug\net8.0\HospitalTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\bin\Debug\net8.0\HospitalTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\obj\Debug\net8.0\HospitalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\obj\Debug\net8.0\HospitalTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\obj\Debug\net8.0\HospitalTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\obj\Debug\net8.0\HospitalTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\obj\Debug\net8.0\HospitalTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\obj\Debug\net8.0\refint\HospitalTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\obj\Debug\net8.0\HospitalTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\obj\Debug\net8.0\HospitalTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\HospitalTask\obj\Debug\net8.0\ref\HospitalTask.dll

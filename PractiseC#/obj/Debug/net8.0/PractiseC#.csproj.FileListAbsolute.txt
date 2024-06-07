@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\bin\Debug\net8.0\PractiseC#.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\bin\Debug\net8.0\PractiseC#.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\bin\Debug\net8.0\PractiseC#.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\bin\Debug\net8.0\PractiseC#.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\bin\Debug\net8.0\PractiseC#.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\obj\Debug\net8.0\PractiseC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\obj\Debug\net8.0\PractiseC#.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\obj\Debug\net8.0\PractiseC#.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\obj\Debug\net8.0\PractiseC#.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\obj\Debug\net8.0\PractiseC#.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\obj\Debug\net8.0\refint\PractiseC#.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\obj\Debug\net8.0\PractiseC#.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\obj\Debug\net8.0\PractiseC#.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\PractiseC#\PractiseC#\obj\Debug\net8.0\ref\PractiseC#.dll
